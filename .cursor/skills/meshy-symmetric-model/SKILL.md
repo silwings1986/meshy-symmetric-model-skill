@@ -15,7 +15,7 @@ description: >-
 - **Blender 4.0+** 已安装并运行，且启用了 [Blender MCP Addon](https://github.com/ahujasid/blender-mcp)
 - **Cursor MCP** 已连接到 Blender MCP Server
 - **项目根目录 `.env`** 中已配置 `MESHY_API_KEY`（参见 `.env.example` 模板）
-- 安装说明详见同目录下 `README.md`
+- 安装说明详见仓库根目录 `README.md`
 
 ## 流程概览
 
