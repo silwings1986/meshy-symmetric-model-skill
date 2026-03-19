@@ -1,0 +1,17 @@
+# API Keys
+.env
+
+# Blender temp files
+*.blend1
+*.blend2
+
+# Downloaded/generated 3D models
+*.glb
+*.gltf
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Cursor internal
+.cursor/projects/
